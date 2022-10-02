@@ -2,7 +2,7 @@
 This is a simple hangman game written in Java. This program was written in 2018.
 
 # Version 1.0
-This is the base version of the game.
+This is the base version of the game. [Executable .jar file](https://github.com/Austin-Daigle/Hangman-Game/blob/main/Java%20Hangman%20Version%201.0.jar)
 
 # Version 1.1
 This is the same as the base version of the game, however, there is a recursive function to select the Java vocabulary words instead of just direct random selection.
