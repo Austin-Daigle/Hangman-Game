@@ -1,5 +1,5 @@
 # Hangman Game
-This is a simple hangman game written in Java. 
+This is a simple hangman game written in Java. This program was written in 2018.
 
 # Version 1.0
 This is the base version of the game.
