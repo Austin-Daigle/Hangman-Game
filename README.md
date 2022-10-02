@@ -8,7 +8,7 @@ This is the base version of the game. [Executable .jar file](https://github.com/
 This is the same as the base version of the game, however, there is a recursive function to select the Java vocabulary words instead of just direct random selection.
 
 ## How to use:
-Download the attached [executable .jar](https://github.com/Austin-Daigle/Hangman-Game/blob/main/Java%20Hangman%20Version%201.1.jar) application and execute and the java-based GUI will start-up. Alternately, the program can also be run by downloading the source code and compiling/executing each java class via a command line/IDE or the classes for the source code can be introduced into the Eclipse IDE and exported as a .jar executable.
+Download the attached [executable .jar (version 1.1)](https://github.com/Austin-Daigle/Hangman-Game/blob/main/Java%20Hangman%20Version%201.1.jar) (for version 1.0 see link above) application and execute and the java-based GUI will start-up. Alternately, the program can also be run by downloading the source code and compiling/executing each java class via a command line/IDE or the classes for the source code can be introduced into the Eclipse IDE and exported as a .jar executable.
 
 ## How to play:
 
